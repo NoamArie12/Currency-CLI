@@ -1,0 +1,56 @@
+# ========================
+# Go specific
+# ========================
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Build directories
+/bin/
+/pkg/
+/vendor/
+
+# ========================
+# OS files
+# ========================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# ========================
+# Logs and temporary files
+# ========================
+*.log
+*.tmp
+*.temp
+
+# ========================
+# IDE / Editor files
+# ========================
+# VS Code
+.vscode/
+# JetBrains IDEs
+.idea/
+*.iml
+
+# ========================
+# Environment / Config files
+# ========================
+.env
+.env.local
+
