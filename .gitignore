@@ -54,3 +54,8 @@ $RECYCLE.BIN/
 .env
 .env.local
 
+
+# ========================
+# Project Personal files
+# ========================
+cur
