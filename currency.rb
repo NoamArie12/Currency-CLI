@@ -7,7 +7,7 @@ class Currency < Formula
 
   def install
     # This takes the file 'cur' and installs it as 'currency'
-    bin.install "cur" => "currency"
+    bin.install "cur"
   end
 
   test do
